@@ -252,13 +252,14 @@ li {
 .page-4-1 .content .graph .graph-set li {
     background: #fff;
     width: 3rem;
-    height: 1rem;
+    /*height: 1rem;*/
     padding: 0.2rem 0.15rem 0.3rem 0;
     border: 3px solid #fff;
     margin-bottom: 0.5rem;
     font-size: 0.3rem;
     margin-right: 0.1rem;
     border-radius: 0.5rem;
+    color: #666;
 }
 li {
     display: list-item;
@@ -302,7 +303,7 @@ li {
 	margin-left:-1.275rem;
 }
 .page-6-1 a{
-	width: 2rem;
+	width: 3rem;
 	height: 0.3rem;
 	border: 0.02rem solid #707070;
 	border-radius: 1rem;
